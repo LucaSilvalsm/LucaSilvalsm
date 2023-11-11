@@ -6,14 +6,14 @@
 - 💻 Estudando PHP e JavaScript
 - 🖥️ Futuramente Node.JS e Python
 - 🖥️ Sistema da Informação
-- Estudante da Universidade Veiga de Almeida 
+- 📖Estudante da Universidade Veiga de Almeida 
 <br>
 
 - 📖 Currently focusing on Front End
 - 💻 Studying PHP e JavaScript
 - 🖥️ Future Node.JS e Python
 - 🖥️ Information System
-- Student at Veiga de Almeida University
+- 📖Student at Veiga de Almeida University
 
 <br>
 

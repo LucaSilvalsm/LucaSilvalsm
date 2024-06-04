@@ -3,13 +3,13 @@
 
 
 - 📖 Atualmente focando em Back End
-- 💻 Estudando PHP e JavaScript
+- 💻 Linguagem em Foco PHP/Laravel
 - 🖥️ Futuramente Node.JS e Python
 - 🖥️ Sistema da Informação
 - 📖Estudante da Universidade Veiga de Almeida 
 <br>
 
-- 📖 Currently focusing on Front End
+- 📖 Currently focusing on Back End
 - 💻 Studying PHP e JavaScript
 - 🖥️ Future Node.JS e Python
 - 🖥️ Information System

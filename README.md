@@ -1,26 +1,23 @@
 ## Oii! Eu sou o Lucas Moreira!!
 
-
-
 - 📖 Atualmente focando em Back End
-- 💻 Linguagem em Foco PHP/Laravel
-- 🖥️ Futuramente Node.JS e Python
+- 💻 Linguagem em Foco PHP/Laravel-Python
+- 🖥️ Linguagem em Estudo Node.JS e DJANGO
 - 🖥️ Sistema da Informação
 - 📖Estudante da Universidade Veiga de Almeida 
 <br>
 
 - 📖 Currently focusing on Back End
-- 💻 Studying PHP e JavaScript
-- 🖥️ Future Node.JS e Python
+- 💻 Language in Focus PHP/Laravel-Python
+- 🖥️ Language Study Node.JS and DJANGO
 - 🖥️ Information System
 - 📖Student at Veiga de Almeida University
-
 <br>
 
 <div align="center">
-  <a href="https://github.com/LucaSilvalsm">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucaSilvalsm&show_icons=true&theme=transparent"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaSilvalsm&layout=compact&langs_count=7&theme=transparent"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LucaSilvalsm&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=LucaSilvalsm&locale=pt-br&mode=weekly&theme=transparent&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucaSilvalsm&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=transparent&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ## Rede Sociais 
@@ -42,11 +39,19 @@
 #### Main Stack:
 
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
-)&nbsp;
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
+</div>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -54,13 +59,14 @@
 
 <br> 
 
-![Node.JS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
+<div align="left">
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
+</div>
 
-#### Studying in this moment // Estudando no Momento :
-<br>
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 
 
 #### Databases // Banco de Dados:
@@ -80,3 +86,8 @@
   
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/LucaSilvalsm/LucaSilvalsm/output/snake.svg" alt="Snake animation" />
+
+###

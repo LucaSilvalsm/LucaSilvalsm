@@ -14,12 +14,12 @@
 - 📖Student at Veiga de Almeida University
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucaSilvalsm&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=pt-br&hide_border=false" height="190" alt="stats graph"  />
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucaSilvalsm&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=transparent&hide_border=false" height="190" alt="languages graph"  />
-</div>
+<br clear="both">
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LucaSilvalsm&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=pt-br&hide_border=false" height="190" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucaSilvalsm&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false" height="190" alt="languages graph"  />
+</div>
 ## Rede Sociais 
 
 <div>

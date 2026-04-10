@@ -27,8 +27,8 @@
 <br>
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LucaSilvalsm&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="LucaSilvalsm's GitHub Stats" />
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LucaSilvalsm&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LucaSilvalsm&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="LucaSilvalsm's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LucaSilvalsm&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
 </div>
 
 ## 💼 Experiência
